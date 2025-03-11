@@ -1,0 +1,59 @@
+{{ $block := .block }}
+
+<div class="row">
+  <div class="col-12 col-lg-4 section-heading">
+    <h1>{{ $block.content.title | markdownify | emojify }}</h1>
+    {{ with $block.content.subtitle }}<p>{{ . | markdownify | emojify }}</p>{{ end }}
+  </div>
+  <div class="col-12 col-lg-8">
+    {{ with $block.content.text }}{{ . | markdownify }}{{ end }}
+
+    {{ $mentees := where site.Pages "Params.user_groups" "intersect" (slice "Mentees") }}
+
+    {{ if $mentees }}
+      <div class="mentees-list row row-cols-1 row-cols-md-2 row-cols-lg-3 justify-content-center">
+        {{ range $mentees }}
+          <div class="col mb-4">
+            <div class="card">
+              <div class="card-body text-center">
+                <!-- Avatar -->
+                {{ $avatar := .Params.avatar }}
+                {{ if $avatar }}
+                  <div class="avatar-container mb-3">
+                    <img class="rounded-circle" src="{{ $avatar | relURL }}" alt="{{ .Title }}" style="width: 120px; height: 120px; object-fit: cover;">
+                  </div>
+                {{ end }}
+
+                <!-- Mentee Name -->
+                <h4 class="mentee-name">{{ .Title }}</h4>
+
+                <!-- Role (optional) -->
+                {{ with .Params.role }}
+                  <div class="mentee-role">{{ . }}</div>
+                {{ end }}
+
+                <!-- Organization (optional) -->
+                {{ with .Params.organizations }}
+                  <div class="mentee-organization">
+                    {{ range first 1 . }}
+                      <span>{{ .name }}</span>
+                    {{ end }}
+                  </div>
+                {{ end }}
+
+                <!-- Bio (optional) -->
+                {{ with .Params.bio }}
+                  <p class="mentee-bio">{{ . }}</p>
+                {{ end }}
+              </div>
+            </div>
+          </div>
+        {{ end }}
+      </div>
+    {{ else }}
+      <p>No mentees found.</p>
+    {{ end }}
+  </div>
+</div>
+
+<img class="rounded-full w-24 h-24 object-cover" src="{{ .Params.image }}" alt="{{ .Title }}">

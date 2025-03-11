@@ -1,0 +1,46 @@
+.mentees-list {
+  margin-top: 30px;
+}
+
+.card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card-body {
+  padding: 20px;
+}
+
+.avatar-container img {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+
+.mentee-name {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.mentee-role {
+  font-size: 1rem;
+  color: #555;
+}
+
+.mentee-bio {
+  font-size: 0.9rem;
+  color: #777;
+}
+
+.news-item {
+  margin-bottom: 10px;  /* Adjust as necessary */
+}
+
+.article-grid .article-thumbnail img {
+  border-radius: 50%; /* Makes it round */
+  width: 100px; /* Adjust size as needed */
+  height: 100px; /* Ensure it's a circle */
+  object-fit: cover; /* Prevents distortion */
+}

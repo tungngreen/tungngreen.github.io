@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yoshio Hato | Thanh-Tung Nguyen</title>
+    <link>http://localhost:1313/author/yoshio-hato/</link>
+      <atom:link href="http://localhost:1313/author/yoshio-hato/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yoshio Hato</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:1313/author/yoshio-hato/avatar_hu_7d4a3c4e029eccfd.jpg</url>
+      <title>Yoshio Hato</title>
+      <link>http://localhost:1313/author/yoshio-hato/</link>
+    </image>
+    
+  </channel>
+</rss>
