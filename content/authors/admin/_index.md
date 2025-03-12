@@ -191,8 +191,8 @@ languages:
 
 ## About Me
 
-I am a Ph.D. student at the School of Computing (SoC), [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/en/). Previously, I earned my Master's degree in Information Engineering from Chungbuk National University, where I was advised by Prof. Taehong Kim.
+ I am a Ph.D. student at [Collaborative Distributed Systems & Networks (CDSN) Lab](http://cds.kaist.ac.kr/), [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/en/) under the advisorship of Prof. Dongman Lee. Previously, I was awarded the Korean Government Scholarship (KGSP) to pursue my Master’s degree in Information Engineering at Chungbuk National University, where I was advised by Prof. Taehong Kim.
 
-My research focuses on the design and development of computing systems, particularly at the edge of the network. I am especially interested in edge AI and on-device AI, including both inference and training, for applications such as video analytics.
+My research focuses on the design and development of computing systems, particularly at the edge of the network. I am especially interested in areas such as edge AI and on-device AI, where inference and training can be performed on tiny, resource-constrained devices. I believe, in the future, these systems will become the backbone of a wide range of applications, including video analytics, IoT sensing, and smart mobility.
 
 In my free time, I enjoy staying active. Whether it’s running, hiking, playing football, or practicing calisthenics, I can never get enough of it.

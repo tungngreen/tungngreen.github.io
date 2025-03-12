@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data Analytics | Thanh-Tung Nguyen</title>
-    <link>http://localhost:36451/tags/data-analytics/</link>
-      <atom:link href="http://localhost:36451/tags/data-analytics/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:41101/tags/data-analytics/</link>
+      <atom:link href="http://localhost:41101/tags/data-analytics/index.xml" rel="self" type="application/rss+xml" />
     <description>Data Analytics</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 26 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:36451/media/icon_hu_1f204c75f37c8955.png</url>
+      <url>http://localhost:41101/media/icon_hu_1f204c75f37c8955.png</url>
       <title>Data Analytics</title>
-      <link>http://localhost:36451/tags/data-analytics/</link>
+      <link>http://localhost:41101/tags/data-analytics/</link>
     </image>
     
     <item>
       <title>Enhancing Geospatial Recommendations through Natural Language Processing with Large Language Models</title>
-      <link>http://localhost:36451/feat_pub/2407-kcc2-feat/</link>
+      <link>http://localhost:41101/feat_pub/2407-kcc2-feat/</link>
       <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36451/feat_pub/2407-kcc2-feat/</guid>
+      <guid>http://localhost:41101/feat_pub/2407-kcc2-feat/</guid>
       <description>&lt;!-- 
 
 
@@ -55,9 +55,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Enhancing Geospatial Recommendations through Natural Language Processing with Large Language Models</title>
-      <link>http://localhost:36451/publication/2407-kcc2/</link>
+      <link>http://localhost:41101/publication/2407-kcc2/</link>
       <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36451/publication/2407-kcc2/</guid>
+      <guid>http://localhost:41101/publication/2407-kcc2/</guid>
       <description>&lt;!-- 
 
 
@@ -96,9 +96,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Integrative Geospatial Visualization for Urban Mobility Analysis</title>
-      <link>http://localhost:36451/publication/2407-kcc/</link>
+      <link>http://localhost:41101/publication/2407-kcc/</link>
       <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36451/publication/2407-kcc/</guid>
+      <guid>http://localhost:41101/publication/2407-kcc/</guid>
       <description>&lt;!-- 
 
 

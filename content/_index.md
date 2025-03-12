@@ -92,6 +92,7 @@ sections:
         folders:
           - publication
         exclude_featured: false
+      count: 15
     design:
       view: citation
       spacing:
