@@ -3,7 +3,7 @@
 title: Thanh-Tung Nguyen
 
 # Name pronunciation (optional)
-name_pronunciation: Nguyễn Thanh Tùng - 완청송 - 阮靑松
+name_pronunciation: Nguyễn Thanh Tùng - 완청송
 
 # Full name (for SEO)
 first_name: Thanh-Tung
@@ -20,14 +20,13 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD Student
-
+role: 박사과정
 user_groups: ["admin"]
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Korea Advanced Institute of Science and Technology (KAIST)
-    url: https://www.kaist.ac.kr/en/
+  - name: 한국과학기술원 (KAIST)
+    url: https://www.kaist.ac.kr/kr/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -52,37 +51,73 @@ interests:
   - Inference Serving
 
 education:
-  - area: PhD Computer Science
-    institution: Stanford University
-    date_start: 2016-01-01
+  - area: 전산학 박사과정
+    institution: 한국과학기술원 (KAIST)
+    date_start: 2021-03-01
     summary: |
-      I'm currently working towards my PhD degree under the supervision of Prof. Dongman Lee at [Collaborative Distributed Networks & Systems (CDSN) Lab](http://cds.kaist.ac.kr/).
-  - area: MEng Information Engineering
-    institution: Chungbuk National University
+      .
+      
+  - area: 정보통신공학 석사
+    institution: 충북대학교
     date_start: 2018-09-01
     date_end: 2020-08-19
-    # summary: |
-    #   GPA: 3.67/4.0
+    summary: |
+      GPA: 3.67/4.0
 
-    #   Courses included:
+      정부조정장학금 (KGSP) 수상
+
+    #   수강 과목:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Telecommunications Engineering
-    institution: Vietnam National University Hanoi (VNUH)
+
+  - area: 통신공학 학사
+    institution: 베트남 하노이 국립대학교 (VNUH)
     date_start: 2012-09-05
     date_end: 2017-06-27
     summary: |
       - GPA: 3.34/4.0 (Magna Cum Laude)
-      - Execellent BSc Thesis Award
-      
-  - area: Hoang Van Thu High School for Gifted Students
+      - 우수 학사 논문상 수상
+
+  - area: Hoang Van Thu 영재 고등학교
     date_start: 2009-09-05
     date_end: 2012-05-25
-
     summary: |
-      - Second Prize in HB Provincial Olympiad in Informatics
-      - Consolation Prize in Vietnam National Olympiad in Informatics (VNOI)
+      - 화빈도 정보 올림피아드 (HB Provincial Olympiad in Informatics) 2위 수상
+      - 베트남 전국 정보 올림피아드 (Vietnam National Olympiad in Informatics, VNOI) 장려상 수상
+
+# education:
+#   - area: PhD Computer Science
+#     institution: Korea Advanced Institute of Science and Technology (KAIST)
+#     date_start: 2021-03-01
+#     summary: |
+#       I'm currently working towards my PhD degree under the supervision of Prof. Dongman Lee at [Collaborative Distributed Networks & Systems (CDSN) Lab](http://cds.kaist.ac.kr/).
+#   - area: MEng Information Engineering
+#     institution: Chungbuk National University
+#     date_start: 2018-09-01
+#     date_end: 2020-08-19
+#     # summary: |
+#     #   GPA: 3.67/4.0
+
+#     #   Courses included:
+#     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#   - area: BSc Telecommunications Engineering
+#     institution: Vietnam National University Hanoi (VNUH)
+#     date_start: 2012-09-05
+#     date_end: 2017-06-27
+#     summary: |
+#       - GPA: 3.34/4.0 (Magna Cum Laude)
+#       - Execellent BSc Thesis Award
+      
+#   - area: Hoang Van Thu High School for Gifted Students
+#     date_start: 2009-09-05
+#     date_end: 2012-05-25
+
+#     summary: |
+#       - Second Prize in HB Provincial Olympiad in Informatics
+#       - Consolation Prize in Vietnam National Olympiad in Informatics (VNOI)
 # work:
 #   - position: Director of Cloud Infrastructure
 #     company_name: GenCoin
@@ -150,11 +185,11 @@ skills:
         icon: camera
 
 languages:
-  - name: Vietnamese
+  - name: 베트남어
     percent: 100
-  - name: English
+  - name: 영어
     percent: 100
-  - name: Korean
+  - name: 한국어
     percent: 90
 
 # Awards.
@@ -189,7 +224,7 @@ languages:
 #       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## About Me
+## 자기소개
 
  I am a Ph.D. student at [Collaborative Distributed Systems & Networks (CDSN) Lab](http://cds.kaist.ac.kr/), [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/en/) under the advisorship of Prof. Dongman Lee. Previously, I was awarded the Korean Government Scholarship (KGSP) to pursue my Master’s degree in Information Engineering at Chungbuk National University, where I was advised by Prof. Taehong Kim.
 

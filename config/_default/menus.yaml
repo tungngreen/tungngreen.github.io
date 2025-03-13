@@ -28,3 +28,6 @@ main:
   - name: Mentoring
     url: /#mentoring
     weight: 40
+  # - name: Korean
+  #   url: kr/
+  #   weight: 50

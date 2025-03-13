@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Edge Computing | Thanh-Tung Nguyen</title>
-    <link>http://localhost:41101/tags/edge-computing/</link>
-      <atom:link href="http://localhost:41101/tags/edge-computing/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/edge-computing/</link>
+      <atom:link href="http://localhost:1313/tags/edge-computing/index.xml" rel="self" type="application/rss+xml" />
     <description>Edge Computing</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:41101/media/icon_hu_1f204c75f37c8955.png</url>
+      <url>http://localhost:1313/media/icon_hu_1f204c75f37c8955.png</url>
       <title>Edge Computing</title>
-      <link>http://localhost:41101/tags/edge-computing/</link>
+      <link>http://localhost:1313/tags/edge-computing/</link>
     </image>
     
     <item>
       <title>Horizontal Pod Autoscaling in Kubernetes for Elastic Container Orchestration</title>
-      <link>http://localhost:41101/publication/2009-hpa/</link>
+      <link>http://localhost:1313/publication/2009-hpa/</link>
       <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:41101/publication/2009-hpa/</guid>
+      <guid>http://localhost:1313/publication/2009-hpa/</guid>
       <description>&lt;!-- 
 
 

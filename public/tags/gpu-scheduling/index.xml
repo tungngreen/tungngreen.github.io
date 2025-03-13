@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GPU Scheduling | Thanh-Tung Nguyen</title>
-    <link>http://localhost:41101/tags/gpu-scheduling/</link>
-      <atom:link href="http://localhost:41101/tags/gpu-scheduling/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/gpu-scheduling/</link>
+      <atom:link href="http://localhost:1313/tags/gpu-scheduling/index.xml" rel="self" type="application/rss+xml" />
     <description>GPU Scheduling</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 21 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:41101/media/icon_hu_1f204c75f37c8955.png</url>
+      <url>http://localhost:1313/media/icon_hu_1f204c75f37c8955.png</url>
       <title>GPU Scheduling</title>
-      <link>http://localhost:41101/tags/gpu-scheduling/</link>
+      <link>http://localhost:1313/tags/gpu-scheduling/</link>
     </image>
     
     <item>
       <title>OCTOPINF: Workload-Aware Inference Serving for Edge Video Analytics</title>
-      <link>http://localhost:41101/feat_pub/2503-octopinf/</link>
+      <link>http://localhost:1313/feat_pub/2503-octopinf/</link>
       <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:41101/feat_pub/2503-octopinf/</guid>
+      <guid>http://localhost:1313/feat_pub/2503-octopinf/</guid>
       <description>&lt;!-- 
 
 
@@ -55,9 +55,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>OCTOPINF: Workload-Aware Inference Serving for Edge Video Analytics</title>
-      <link>http://localhost:41101/publication/2503-octopinf/</link>
+      <link>http://localhost:1313/publication/2503-octopinf/</link>
       <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:41101/publication/2503-octopinf/</guid>
+      <guid>http://localhost:1313/publication/2503-octopinf/</guid>
       <description>&lt;!-- 
 
 
