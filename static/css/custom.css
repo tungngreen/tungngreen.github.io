@@ -1,0 +1,33 @@
+/* assets/scss/custom.scss or static/css/custom.css */
+
+/* Target the main flex container within your skills section */
+/* This selector overrides the Tailwind 'items-center' to align content to the top */
+.skills-hobbies-section > .flex.flex-col.lg\:flex-row {
+  align-items: flex-start !important; /* Crucial: Aligns items to the top */
+}
+
+/* Optional: Add some padding/margin to the category wrappers for better visual separation */
+/* This targets the individual category columns (e.g., Technical Skills, Languages, Hobbies) */
+.skills-hobbies-section .w-full.lg\:w-1\/2 {
+  padding: 1rem; /* Adjust as needed for internal spacing */
+  /* You might also want to add a border or background to each category box */
+  /* border: 1px solid var(--border-color, #e0e0e0); */
+  /* border-radius: 8px; */
+  /* background-color: var(--background-color-secondary, #fff); */
+  /* box-shadow: 0 2px 4px rgba(0,0,0,0.05); */
+}
+
+/* Ensure category titles themselves have consistent styling if needed */
+.skills-hobbies-section .w-full.lg\:w-1\/2 .mb-5.text-xl.font-bold {
+  /* You can add specific styles here if needed, e.g., text-align, font-size */
+  text-align: center; /* Example: center the category title */
+}
+
+/* Media queries for responsiveness (if you want different layouts on smaller screens) */
+@media (max-width: 768px) {
+  .skills-hobbies-section .w-full.lg\:w-1\/2 {
+    /* On small screens, categories will stack (due to flex-col) */
+    /* You might want to remove horizontal margin or adjust padding */
+    margin: 1rem 0;
+  }
+}

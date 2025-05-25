@@ -113,50 +113,92 @@ education:
 skills:
   - name: Technical Skills
     items:
-      - name: C++
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Python
+      - name: C/C++/Python
         description: ''
         percent: 80
         icon: code-bracket
       - name: TensorRT, ONNX, Torch, TF
         description: ''
-        percent: 100
+        percent: 90
         icon: chart-bar
       - name: Kubernetes
         description: ''
-        percent: 40
+        percent: 70
         icon: server-solid
-  - name: Hobbies
-    color: '#eeac02'
+      - name: Docker
+        description: ''
+        percent: 90
+        icon: docker
+      - name: Ansible
+        description: ''
+        percent: 70
+        icon: infinity-cicd
+      - name: Terraform
+        description: ''
+        percent: 60
+        icon: infinity-cicd
+      - name: Jenkins CI
+        description: ''
+        percent: 60
+        icon: infinity-cicd
+      - name: Github Actions
+        description: ''
+        percent: 60
+        icon: infinity-cicd
+  - name: Languages
+    color: '#ef5234'
     color_border: '#f0bf23'
     items:
-      - name: Hiking & Running
+      - name: Vietnamese
         description: ''
         percent: 100
-        icon: person-simple-walk
-      - name: Calisthenics
+        icon: hanoi
+      - name: English
         description: ''
         percent: 100
-        icon: dumbbell-solid
-      - name: Football
+        icon: eng
+      - name: Korean
         description: ''
-        percent: 100
-        icon: futbol-solid
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+        percent: 90
+        icon: korean
+      - name: "\u2800"
+      - name: "\u2800"
+      - name: "\u2800"
+      - name: "\u2800"
+      - name: "\u2800"
+      - name: "\u2800"
+  # - name: Hobbies
+  #   color: '#eeac02'
+  #   color_border: '#f0bf23'
+  #   items:
+  #     - name: Hiking & Running
+  #       description: ''
+  #       percent: 100
+  #       icon: person-simple-walk
+  #     - name: Calisthenics
+  #       description: ''
+  #       percent: 100
+  #       icon: dumbbell-solid
+  #     - name: Football
+  #       description: ''
+  #       percent: 100
+  #       icon: futbol-solid
+  #     - name: Photography
+  #       description: ''
+  #       percent: 80
+  #       icon: camera
 
-languages:
-  - name: Vietnamese
-    percent: 100
-  - name: English
-    percent: 100
-  - name: Korean
-    percent: 90
+teaching:
+  - name: CS341
+
+
+# languages:
+#   - name: Vietnamese
+#     percent: 100
+#   - name: English
+#     percent: 100
+#   - name: Korean
+#     percent: 90
 
 # Awards.
 #   Add/remove as many awards below as you like.

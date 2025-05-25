@@ -6,25 +6,28 @@
 main:
   - name: Bio
     url: /
-    weight: 10
+    weight: 1
   # - name: Selected Publications
   #   url: /#feat_papers
   #   weight: 11
-  - name: Publications
-    url: /#papers
-    weight: 12
-  - name: Education
-    url: education/
-    weight: 15
   - name: News
     url: /#news
-    weight: 20
-  # - name: Projects
-  #   url: projects/
-  #   weight: 30
+    weight: 2
+  - name: Education
+    url: /#education
+    weight: 3
+  - name: Publications
+    url: /#papers
+    weight: 4
+  - name: Skills and Hobbies
+    url: /#skills
+    weight: 4
+  - name: Teaching
+    url: /#teaching
+    weight: 5
   - name: Mentoring
     url: /#mentoring
-    weight: 40
+    weight: 6
   # - name: Korean
   #   url: kr/
   #   weight: 50

@@ -70,6 +70,16 @@ sections:
       view: date-title-summary
       # Reduce spacing
       columns: 2
+
+  - block: resume-experience
+    id: education
+    content:
+      username: admin
+    design:
+      # Hugo date format
+      date_format: 'January 2006'
+      # Education or Experience section first?
+      is_education_first: true
   - block: collection
     id: feat_papers
     content:
@@ -82,7 +92,7 @@ sections:
       spacing:
         padding: [0, 0, 0, 0]
       view: article-grid
-      columns: 2
+      columns: 4
   - block: collection
     id: papers
     content:
@@ -97,6 +107,21 @@ sections:
       view: citation
       spacing:
         padding: [0, 0, 0, 0]
+  - block: resume-skills
+    id: skills
+    content:
+      title: Skills & Hobbies
+      username: admin
+    design:
+      show_skill_percentage: true
+  - block: markdown
+    id: teaching
+    content:
+      title: Teaching
+      username: admin
+      text: |
+        - (**Assistant**) CS612 Social network-aware Uniquitous Computing, KAIST (Fall 2024)
+        - (**Assistant**) CS341 Computer Networks, KAIST (Spring 2022)
   - block: collection
     id: mentoring
     content:
@@ -106,8 +131,12 @@ sections:
           - mentoring
     design:
       view: article-grid
-      columns: '3'
+      columns: 4
     thumbnail_style: round
+  - block: resume-awards
+    content:
+      title: Awards
+      username: admin
 
   # - widget: people
   #   headless: true  # This file represents a page section.
