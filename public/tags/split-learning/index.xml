@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Split Learning | Thanh-Tung Nguyen</title>
-    <link>http://localhost:1313/tags/split-learning/</link>
-      <atom:link href="http://localhost:1313/tags/split-learning/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:37877/tags/split-learning/</link>
+      <atom:link href="http://localhost:37877/tags/split-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Split Learning</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 26 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_1f204c75f37c8955.png</url>
+      <url>http://localhost:37877/media/icon_hu_1f204c75f37c8955.png</url>
       <title>Split Learning</title>
-      <link>http://localhost:1313/tags/split-learning/</link>
+      <link>http://localhost:37877/tags/split-learning/</link>
     </image>
     
     <item>
       <title>OctoFedS: A Federated Split Learning System for Object Detection at the Edge</title>
-      <link>http://localhost:1313/publication/2207-kcc/</link>
+      <link>http://localhost:37877/publication/2207-kcc/</link>
       <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2207-kcc/</guid>
+      <guid>http://localhost:37877/publication/2207-kcc/</guid>
       <description>&lt;!-- 
 
 

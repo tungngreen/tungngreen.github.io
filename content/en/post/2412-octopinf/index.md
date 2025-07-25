@@ -1,7 +1,7 @@
 ---
-title: 🎉 Our paper has been accepted at ECCV 2025 🎉  
-summary: 'Our paper titled "*MetaWeather: Few-Shot Weather-Degraded Image Restoration.*" has been accepted to ECCV 2024'
-date: 2024-06-29
+title: 🎉 Our paper has been accepted at PerCom 2025 🎉  
+summary: 'Our paper titled "*OCTOPINF: Workload-Aware Inference Serving for Edge Video Analytics*" has been accepted to PerCom 2025. The conference remains competitive with only 15-17% acceptance rate.'
+date: 2024-12-20
 authors:
   - admin
 ---

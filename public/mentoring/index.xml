@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mentoring | Thanh-Tung Nguyen</title>
-    <link>http://localhost:1313/mentoring/</link>
-      <atom:link href="http://localhost:1313/mentoring/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:37877/mentoring/</link>
+      <atom:link href="http://localhost:37877/mentoring/index.xml" rel="self" type="application/rss+xml" />
     <description>Mentoring</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 28 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_1f204c75f37c8955.png</url>
+      <url>http://localhost:37877/media/icon_hu_1f204c75f37c8955.png</url>
       <title>Mentoring</title>
-      <link>http://localhost:1313/mentoring/</link>
+      <link>http://localhost:37877/mentoring/</link>
     </image>
     
     <item>
       <title>Lucas Liebe</title>
-      <link>http://localhost:1313/mentoring/2025-lucas-liebe/</link>
+      <link>http://localhost:37877/mentoring/2025-lucas-liebe/</link>
       <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mentoring/2025-lucas-liebe/</guid>
+      <guid>http://localhost:37877/mentoring/2025-lucas-liebe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Minh-Hoang Dang</title>
-      <link>http://localhost:1313/mentoring/2024-hoang-dang/</link>
+      <link>http://localhost:37877/mentoring/2024-hoang-dang/</link>
       <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mentoring/2024-hoang-dang/</guid>
+      <guid>http://localhost:37877/mentoring/2024-hoang-dang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nhat-Quang Tau</title>
-      <link>http://localhost:1313/mentoring/2023-quang-tau/</link>
+      <link>http://localhost:37877/mentoring/2023-quang-tau/</link>
       <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mentoring/2023-quang-tau/</guid>
+      <guid>http://localhost:37877/mentoring/2023-quang-tau/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bich-Ngoc Doan</title>
-      <link>http://localhost:1313/mentoring/2022-ngoc-doan/</link>
+      <link>http://localhost:37877/mentoring/2022-ngoc-doan/</link>
       <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mentoring/2022-ngoc-doan/</guid>
+      <guid>http://localhost:37877/mentoring/2022-ngoc-doan/</guid>
       <description></description>
     </item>
     
