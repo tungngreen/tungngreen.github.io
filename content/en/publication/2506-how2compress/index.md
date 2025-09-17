@@ -28,8 +28,8 @@ publishDate: '2025-07-22T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *The 33rd ACM International Conference on Multimedia (MM 2025)*
-publication_short: In *The 33rd ACM International Conference on Multimedia (MM 2025)*
+publication: In *The 33rd ACM International Conference on Multimedia (MM 2025, CORE A\*)*
+publication_short: In *The 33rd ACM International Conference on Multimedia (MM 2025, CORE A\*)*
 
 abstract: With the rapid proliferation of the Internet of Things, video analytics has become a cornerstone application in wireless multimedia sensor networks. To support such applications under bandwidth constraints, learning-based adaptive quantization for video compression have demonstrated strong potential in reducing bitrate while maintaining analytical accuracy. However, existing frameworks often fail to fully exploit the fine-grained quality control enabled by modern blockbased video codecs, leaving significant compression efficiency untapped. In this paper, we present How2Compress, a simple yet effective framework designed to enhance video compression efficiency through precise, fine-grained quality control at the macroblock level. How2Compress is a plug-and-play module and can be seamlessly integrated into any existing edge video analytics pipelines. We implement How2Compress on the H.264 codec and evaluate its performance across diverse real-world scenarios. Experimental results show that How2Compress achieves up to 50.4% bitrate savings and outperforms baselines by up to 3.01× without compromising accuracy, demonstrating its practical effectiveness and efficiency. Code is available at link and a reproducible docker image at link.
 # Summary. An optional shortened abstract.

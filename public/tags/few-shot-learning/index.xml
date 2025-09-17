@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Few-Shot Learning | Thanh-Tung Nguyen</title>
-    <link>http://localhost:37877/tags/few-shot-learning/</link>
-      <atom:link href="http://localhost:37877/tags/few-shot-learning/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/few-shot-learning/</link>
+      <atom:link href="http://localhost:1313/tags/few-shot-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Few-Shot Learning</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 04 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:37877/media/icon_hu_1f204c75f37c8955.png</url>
+      <url>http://localhost:1313/media/icon_hu_1f204c75f37c8955.png</url>
       <title>Few-Shot Learning</title>
-      <link>http://localhost:37877/tags/few-shot-learning/</link>
+      <link>http://localhost:1313/tags/few-shot-learning/</link>
     </image>
     
     <item>
       <title>MetaWeather: Few-Shot Weather-Degraded Image Restoration</title>
-      <link>http://localhost:37877/feat_pub/2411-metaweather/</link>
+      <link>http://localhost:1313/feat_pub/2411-metaweather/</link>
       <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:37877/feat_pub/2411-metaweather/</guid>
+      <guid>http://localhost:1313/feat_pub/2411-metaweather/</guid>
       <description>&lt;!-- 
 
 
@@ -55,9 +55,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>MetaWeather: Few-Shot Weather-Degraded Image Restoration</title>
-      <link>http://localhost:37877/publication/2411-metaweather/</link>
+      <link>http://localhost:1313/publication/2411-metaweather/</link>
       <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:37877/publication/2411-metaweather/</guid>
+      <guid>http://localhost:1313/publication/2411-metaweather/</guid>
       <description>&lt;!-- 
 
 

@@ -2,391 +2,435 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:37877/authors/</loc>
+    <loc>http://localhost:1313/authors/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/event/example/</loc>
+    <loc>http://localhost:1313/event/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/event/</loc>
+    <loc>http://localhost:1313/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/author/thanh-tung-nguyen/</loc>
+    <loc>http://localhost:1313/author/thanh-tung-nguyen/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/tags/continual-reinforcement-learning/</loc>
+    <loc>http://localhost:1313/tags/cross-camera-collaboration/</loc>
+    <lastmod>2025-09-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/author/dongman-lee/</loc>
+    <lastmod>2025-09-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/author/jinghan-cheng/</loc>
+    <lastmod>2025-09-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/author/lucas-liebe/</loc>
+    <lastmod>2025-09-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/author/nhat-quang-tau/</loc>
+    <lastmod>2025-09-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/2509-octocross/</loc>
+    <lastmod>2025-09-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/author/pablo-espinosa/</loc>
+    <lastmod>2025-09-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication_types/paper-conference/</loc>
+    <lastmod>2025-09-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication_types/</loc>
+    <lastmod>2025-09-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/</loc>
+    <lastmod>2025-09-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/spatiotemporal-learning/</loc>
+    <lastmod>2025-09-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-09-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/task-offloadin/</loc>
+    <lastmod>2025-09-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/video-analytics/</loc>
+    <lastmod>2025-09-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/author/yuheng-wu/</loc>
+    <lastmod>2025-09-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/continual-reinforcement-learning/</loc>
     <lastmod>2025-07-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/author/dongman-lee/</loc>
+    <loc>http://localhost:1313/tags/dynamic-batching/</loc>
     <lastmod>2025-07-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/tags/dynamic-batching/</loc>
+    <loc>http://localhost:1313/feat_pub/2507-fcpo/</loc>
     <lastmod>2025-07-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/publication/2507-fcpo/</loc>
+    <loc>http://localhost:1313/publication/2507-fcpo/</loc>
     <lastmod>2025-07-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/tags/federated-reinforcement-learning/</loc>
+    <loc>http://localhost:1313/tags/federated-reinforcement-learning/</loc>
     <lastmod>2025-07-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/tags/inference-serving/</loc>
+    <loc>http://localhost:1313/tags/inference-serving/</loc>
     <lastmod>2025-07-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/author/lucas-liebe/</loc>
+    <loc>http://localhost:1313/author/lucas-liebe-equally-first/</loc>
     <lastmod>2025-07-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/publication_types/paper-conference/</loc>
+    <loc>http://localhost:1313/feat_pub/</loc>
     <lastmod>2025-07-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/publication_types/</loc>
+    <loc>http://localhost:1313/tags/video-analytics/</loc>
     <lastmod>2025-07-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/publication/</loc>
-    <lastmod>2025-07-25T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/publication/2506-how2compress/</loc>
+    <lastmod>2025-07-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/tags/</loc>
-    <lastmod>2025-07-25T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/video-compression/</loc>
+    <lastmod>2025-07-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/tags/video-analytics/</loc>
-    <lastmod>2025-07-25T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/video-streaming/</loc>
+    <lastmod>2025-07-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/tags/gpu-scheduling/</loc>
+    <loc>http://localhost:1313/post/2506-how2compress/</loc>
+    <lastmod>2025-07-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2025-07-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/gpu-scheduling/</loc>
     <lastmod>2025-03-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/author/jinghan-cheng/</loc>
+    <loc>http://localhost:1313/feat_pub/2503-octopinf/</loc>
     <lastmod>2025-03-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/author/nhat-quang-tau/</loc>
+    <loc>http://localhost:1313/publication/2503-octopinf/</loc>
     <lastmod>2025-03-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/feat_pub/2503-octopinf/</loc>
+    <loc>http://localhost:1313/tags/workload-balance/</loc>
     <lastmod>2025-03-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/publication/2503-octopinf/</loc>
-    <lastmod>2025-03-21T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:37877/feat_pub/</loc>
-    <lastmod>2025-03-21T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:37877/tags/workload-balance/</loc>
-    <lastmod>2025-03-21T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:37877/author/yuheng-wu/</loc>
-    <lastmod>2025-03-21T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:37877/mentoring/2025-lucas-liebe/</loc>
+    <loc>http://localhost:1313/mentoring/2025-lucas-liebe/</loc>
     <lastmod>2025-02-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/mentoring/</loc>
+    <loc>http://localhost:1313/mentoring/</loc>
     <lastmod>2025-02-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/post/2406-metaweather/</loc>
+    <loc>http://localhost:1313/post/2412-octopinf/</loc>
     <lastmod>2024-12-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/post/</loc>
-    <lastmod>2024-12-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:37877/tags/few-shot-learning/</loc>
+    <loc>http://localhost:1313/tags/few-shot-learning/</loc>
     <lastmod>2024-10-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/tags/image-restoration/</loc>
+    <loc>http://localhost:1313/tags/image-restoration/</loc>
     <lastmod>2024-10-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/tags/meta-learning/</loc>
+    <loc>http://localhost:1313/tags/meta-learning/</loc>
     <lastmod>2024-10-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/feat_pub/2411-metaweather/</loc>
+    <loc>http://localhost:1313/feat_pub/2411-metaweather/</loc>
     <lastmod>2024-10-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/publication/2411-metaweather/</loc>
+    <loc>http://localhost:1313/publication/2411-metaweather/</loc>
     <lastmod>2024-10-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/author/seunghoon-hong/</loc>
+    <loc>http://localhost:1313/author/seunghoon-hong/</loc>
     <lastmod>2024-10-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/author/younggeol-cho/</loc>
+    <loc>http://localhost:1313/author/younggeol-cho/</loc>
     <lastmod>2024-10-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/author/youngrae-kim/</loc>
+    <loc>http://localhost:1313/author/youngrae-kim/</loc>
     <lastmod>2024-10-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/mentoring/2024-hoang-dang/</loc>
+    <loc>http://localhost:1313/mentoring/2024-hoang-dang/</loc>
     <lastmod>2024-08-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/post/2412-octopinf/</loc>
-    <lastmod>2024-06-29T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:37877/author/ahmad-elmoursi/</loc>
+    <loc>http://localhost:1313/author/ahmad-elmoursi/</loc>
     <lastmod>2024-06-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/tags/data-analytics/</loc>
+    <loc>http://localhost:1313/tags/data-analytics/</loc>
     <lastmod>2024-06-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/tags/data-visualization/</loc>
+    <loc>http://localhost:1313/tags/data-visualization/</loc>
     <lastmod>2024-06-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/author/doyoon-park/</loc>
+    <loc>http://localhost:1313/author/doyoon-park/</loc>
     <lastmod>2024-06-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/publication/2407-kcc2/</loc>
+    <loc>http://localhost:1313/publication/2407-kcc2/</loc>
     <lastmod>2024-06-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/author/hyungchan-bae/</loc>
+    <loc>http://localhost:1313/author/hyungchan-bae/</loc>
     <lastmod>2024-06-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/publication/2407-kcc/</loc>
+    <loc>http://localhost:1313/publication/2407-kcc/</loc>
     <lastmod>2024-06-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/tags/large-language-models/</loc>
+    <loc>http://localhost:1313/tags/large-language-models/</loc>
     <lastmod>2024-06-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/tags/llms/</loc>
+    <loc>http://localhost:1313/tags/llms/</loc>
     <lastmod>2024-06-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/tags/mobility/</loc>
+    <loc>http://localhost:1313/tags/mobility/</loc>
     <lastmod>2024-06-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/tags/placeness/</loc>
+    <loc>http://localhost:1313/tags/placeness/</loc>
     <lastmod>2024-06-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/author/sumin-han/</loc>
+    <loc>http://localhost:1313/author/sumin-han/</loc>
     <lastmod>2024-06-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/tags/urban-understanding/</loc>
+    <loc>http://localhost:1313/tags/urban-understanding/</loc>
     <lastmod>2024-06-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/author/youngjun-park/</loc>
+    <loc>http://localhost:1313/author/youngjun-park/</loc>
     <lastmod>2024-06-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/projects/</loc>
+    <loc>http://localhost:1313/projects/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/tags/hugo/</loc>
+    <loc>http://localhost:1313/tags/hugo/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/tags/markdown/</loc>
+    <loc>http://localhost:1313/tags/markdown/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/project/pandas/</loc>
+    <loc>http://localhost:1313/project/pandas/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/project/</loc>
+    <loc>http://localhost:1313/project/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/project/pytorch/</loc>
+    <loc>http://localhost:1313/project/pytorch/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/project/scikit/</loc>
+    <loc>http://localhost:1313/project/scikit/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/tags/wowchemy/</loc>
+    <loc>http://localhost:1313/tags/wowchemy/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/education/</loc>
+    <loc>http://localhost:1313/education/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/mentoring/2023-quang-tau/</loc>
+    <loc>http://localhost:1313/mentoring/2023-quang-tau/</loc>
     <lastmod>2023-08-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/author/boyan-kodstadinov/</loc>
+    <loc>http://localhost:1313/author/boyan-kodstadinov/</loc>
     <lastmod>2023-03-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/tags/cross-camera-tracking/</loc>
+    <loc>http://localhost:1313/tags/cross-camera-tracking/</loc>
     <lastmod>2023-03-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/tags/multi-object-tracking/</loc>
+    <loc>http://localhost:1313/tags/multi-object-tracking/</loc>
     <lastmod>2023-03-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/feat_pub/2303-preacto/</loc>
+    <loc>http://localhost:1313/feat_pub/2303-preacto/</loc>
     <lastmod>2023-03-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/publication/2303-preacto/</loc>
+    <loc>http://localhost:1313/publication/2303-preacto/</loc>
     <lastmod>2023-03-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/author/siyoung-jang/</loc>
+    <loc>http://localhost:1313/author/siyoung-jang/</loc>
     <lastmod>2023-03-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/mentoring/2022-ngoc-doan/</loc>
+    <loc>http://localhost:1313/mentoring/2022-ngoc-doan/</loc>
     <lastmod>2022-08-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/author/bich-ngoc-nguyen/</loc>
+    <loc>http://localhost:1313/author/bich-ngoc-nguyen/</loc>
     <lastmod>2022-06-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/tags/distributed-learning/</loc>
+    <loc>http://localhost:1313/tags/distributed-learning/</loc>
     <lastmod>2022-06-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/tags/federated-learning/</loc>
+    <loc>http://localhost:1313/tags/federated-learning/</loc>
     <lastmod>2022-06-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/tags/object-detection/</loc>
+    <loc>http://localhost:1313/tags/object-detection/</loc>
     <lastmod>2022-06-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/publication/2207-kcc/</loc>
+    <loc>http://localhost:1313/publication/2207-kcc/</loc>
     <lastmod>2022-06-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/tags/split-learning/</loc>
+    <loc>http://localhost:1313/tags/split-learning/</loc>
     <lastmod>2022-06-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/publication_types/article-journal/</loc>
+    <loc>http://localhost:1313/publication_types/article-journal/</loc>
     <lastmod>2020-07-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/tags/cloud-computing/</loc>
+    <loc>http://localhost:1313/tags/cloud-computing/</loc>
     <lastmod>2020-07-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/author/dae-heon-park/</loc>
+    <loc>http://localhost:1313/author/dae-heon-park/</loc>
     <lastmod>2020-07-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/tags/edge-computing/</loc>
+    <loc>http://localhost:1313/tags/edge-computing/</loc>
     <lastmod>2020-07-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/tags/horizontal-pod-autoscaling/</loc>
+    <loc>http://localhost:1313/tags/horizontal-pod-autoscaling/</loc>
     <lastmod>2020-07-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/publication/2009-hpa/</loc>
+    <loc>http://localhost:1313/publication/2009-hpa/</loc>
     <lastmod>2020-07-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/tags/kubernetes/</loc>
+    <loc>http://localhost:1313/tags/kubernetes/</loc>
     <lastmod>2020-07-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/author/sehan-kim/</loc>
+    <loc>http://localhost:1313/author/sehan-kim/</loc>
     <lastmod>2020-07-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/author/taehong-kim/</loc>
+    <loc>http://localhost:1313/author/taehong-kim/</loc>
     <lastmod>2020-07-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/author/yu-jin-yeom/</loc>
+    <loc>http://localhost:1313/author/yu-jin-yeom/</loc>
     <lastmod>2020-07-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/publication/2008-wsn/</loc>
+    <loc>http://localhost:1313/publication/2008-wsn/</loc>
     <lastmod>2020-07-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/tags/iot-sensors/</loc>
+    <loc>http://localhost:1313/tags/iot-sensors/</loc>
     <lastmod>2020-07-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/tags/scheduling/</loc>
+    <loc>http://localhost:1313/tags/scheduling/</loc>
     <lastmod>2020-07-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/author/taejoon-kim/</loc>
+    <loc>http://localhost:1313/author/taejoon-kim/</loc>
     <lastmod>2020-07-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/tags/topological-order/</loc>
+    <loc>http://localhost:1313/tags/topological-order/</loc>
     <lastmod>2020-07-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/tags/wireless-sensor-network/</loc>
+    <loc>http://localhost:1313/tags/wireless-sensor-network/</loc>
     <lastmod>2020-07-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/publication/1907-wsn/</loc>
+    <loc>http://localhost:1313/publication/1907-wsn/</loc>
     <lastmod>2019-07-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/author/jaehyun-ham/</loc>
+    <loc>http://localhost:1313/author/jaehyun-ham/</loc>
     <lastmod>2019-07-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/author/jaeseang-lee/</loc>
+    <loc>http://localhost:1313/author/jaeseang-lee/</loc>
     <lastmod>2019-07-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/author/linh-an-phan/</loc>
+    <loc>http://localhost:1313/author/linh-an-phan/</loc>
     <lastmod>2019-07-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37877/people/</loc>
+    <loc>http://localhost:1313/people/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

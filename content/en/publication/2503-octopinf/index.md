@@ -30,8 +30,8 @@ publishDate: '2025-03-11T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *The 23rd International Conference on Pervasive Computing and Communications (PerCom 2025)*
-publication_short: In *The 23rd International Conference on Pervasive Computing and Communications (PerCom 2025)*
+publication: In *The 23rd International Conference on Pervasive Computing and Communications (PerCom 2025, CORE A\*, acceptance rate 16%)*
+publication_short: In *The 23rd International Conference on Pervasive Computing and Communications (PerCom 2025, CORE A\*, acceptance rate 16%)*
 
 abstract: Edge Video Analytics (EVA) has gained significant attention as a major application of pervasive computing, enabling real-time visual processing. EVA pipelines, composed of deep neural networks (DNNs), typically demand efficient inference serving under stringent latency requirements, which is challenging due to the dynamic Edge environments (e.g., workload variability and network instability). Moreover, EVA pipelines also face significant resource contention caused by resource (e.g., GPU) constraints at the Edge. In this paper, we introduce OCTOPINF, a novel resource-efficient and workload-aware inference serving system designed for real-time EVA. OCTOPINF tackles the unique challenges of dynamic edge environments through fine-grained resource allocation, adaptive batching, and workload balancing between edge devices and servers. Furthermore, we propose a spatiotemporal scheduling algorithm that optimizes the co-location of inference tasks on GPUs, improving performance and ensuring service-level objectives (SLOs) compliance. Extensive evaluations on a real-world testbed demonstrate the effectiveness of our approach. It achieves an effective throughput increase of up to 10x compared to the baselines and shows better robustness in challenging scenarios. OCTOPINF can be used for any DNN-based EVA inference task with minimal adaptation and is available at [https://github.com/tungngreen/PipelineScheduler](https://github.com/tungngreen/PipelineScheduler).
 

@@ -28,8 +28,8 @@ publishDate: '2023-03-11T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: The 18th European Conference on Computer Vision ECCV 2024 (ECCV 2024)
-publication_short: The 18th European Conference on Computer Vision ECCV 2024 (ECCV 2024)
+publication: in *The 18th European Conference on Computer Vision ECCV 2024 (ECCV 2024, CORE A\*)*
+publication_short: in *The 18th European Conference on Computer Vision ECCV 2024 (ECCV 2024, CORE A\*)*
 
 abstract: Real-world weather conditions are intricate and often occur concurrently. However, most existing restoration approaches are limited in their applicability to specific weather conditions in training data and struggle to generalize to unseen weather types, including real-world weather conditions. To address this issue, we introduce MetaWeather, a universal approach that can handle diverse and novel weather conditions with a single unified model. Extending a powerful meta-learning framework, MetaWeather formulates the task of weather-degraded image restoration as a few-shot adaptation problem that predicts the degradation pattern of a query image, and learns to adapt to unseen weather conditions through a novel spatial-channel matching algorithm. Experimental results on the BID Task II.A, SPA-Data, and RealSnow datasets demonstrate that the proposed method can adapt to unseen weather conditions, significantly outperforming the state-of-the-art multi-weather image restoration methods. Code is available at https://github.com/RangeWING/MetaWeather.
 

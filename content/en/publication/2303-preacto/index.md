@@ -28,8 +28,8 @@ publishDate: '2025-03-11T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *The 21rd International Conference on Pervasive Computing and Communications (PerCom 2023)*
-publication_short: In *The 21rd International Conference on Pervasive Computing and Communications (PerCom 2023)*
+publication: In *The 21rd International Conference on Pervasive Computing and Communications (PerCom 2023, CORE A\*, acceptance rate 17%)*
+publication_short: In *The 21rd International Conference on Pervasive Computing and Communications (PerCom 2023, CORE A\*, acceptance rate 17%)*
 
 abstract: Cross-camera real-time object tracking is one of the important, yet challenging applications of video analytics in edge computing environments. To provide accurate and efficient real-time tracking, a tracking target''s future movements need to be predicted. Particularly, the destination camera and travel time of the target object are to be identified so that tracking duties can be handover-ed seamlessly. In this paper, we propose a collaborative cross-camera tracking system, called PreActo, with two key features (1) ResNet-based trajectory learning to exploit the rich spatio-temporal information embedded within objects'' moving patterns, which has not been utilized by the existing literature, and (2) collaboration between the edge server and the edge device for real-time trajectory prediction and tracking handover. To prove the validity of our proposed system, we evaluate PreActo on a video dataset leveraging real-world trajectories. Evaluation results show that the proposed system reduces up to 7× the number of processed frames for handover, with 2× lower latency while providing 1.5× tracking precision improvement compared to the state-of-the-art.
 

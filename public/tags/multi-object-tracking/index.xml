@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Multi-Object Tracking | Thanh-Tung Nguyen</title>
-    <link>http://localhost:37877/tags/multi-object-tracking/</link>
-      <atom:link href="http://localhost:37877/tags/multi-object-tracking/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/multi-object-tracking/</link>
+      <atom:link href="http://localhost:1313/tags/multi-object-tracking/index.xml" rel="self" type="application/rss+xml" />
     <description>Multi-Object Tracking</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 17 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:37877/media/icon_hu_1f204c75f37c8955.png</url>
+      <url>http://localhost:1313/media/icon_hu_1f204c75f37c8955.png</url>
       <title>Multi-Object Tracking</title>
-      <link>http://localhost:37877/tags/multi-object-tracking/</link>
+      <link>http://localhost:1313/tags/multi-object-tracking/</link>
     </image>
     
     <item>
       <title>PreActo: Efficient Cross-Camera Object Tracking System in Video Analytics Edge Computing</title>
-      <link>http://localhost:37877/feat_pub/2303-preacto/</link>
+      <link>http://localhost:1313/feat_pub/2303-preacto/</link>
       <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:37877/feat_pub/2303-preacto/</guid>
+      <guid>http://localhost:1313/feat_pub/2303-preacto/</guid>
       <description>&lt;!-- 
 
 
@@ -55,9 +55,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>PreActo: Efficient Cross-Camera Object Tracking System in Video Analytics Edge Computing</title>
-      <link>http://localhost:37877/publication/2303-preacto/</link>
+      <link>http://localhost:1313/publication/2303-preacto/</link>
       <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:37877/publication/2303-preacto/</guid>
+      <guid>http://localhost:1313/publication/2303-preacto/</guid>
       <description>&lt;!-- 
 
 
